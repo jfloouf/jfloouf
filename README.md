@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jfloouf
-- 👀 I’m interested in old movies, graphic design and people!
+- 👀 I’m interested in Bergman and Kurosawa movies, doing wack design in Adobe Illustrator and, most of all, people!
 - 🌱 I’m currently learning about Predictive maintenance with data driven approaches.
 
 <!---
